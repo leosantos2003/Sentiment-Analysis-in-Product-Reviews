@@ -24,6 +24,8 @@ The model achieved excellent performance on the test dataset, demonstrating high
 |----------|----------|-----------------|
 | 93.7% | 93.7% | 0.192 |
 
+Below, there is an output example obtained with two arbitrary choices of sentences.
+
 ```console
 Resultados da Avaliação Final:
 {'eval_loss': 0.19226007163524628, 'eval_accuracy': 0.937, 'eval_f1': 0.9369027269598926, 'eval_runtime': 6.3185, 'eval_samples_per_second': 316.531, 'eval_steps_per_second': 19.783, 'epoch': 3.0}
